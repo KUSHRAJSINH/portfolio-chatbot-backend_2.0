@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+.venv/
+*.egg-info/
+*.pytest_cache/
+*.log
+
+# FastAPI / Uvicorn
+.idea/
+.vscode/
+.DS_Store
+
+# Cache
+.cache/
+*.sqlite3
+
+# OS Files
+Thumbs.db
